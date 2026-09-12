@@ -46,7 +46,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 ## Competitions as a security researcher
 
-### [hackenproof](https://hackenproof.com/hackers/Wojack)
+### [hackenproof Profile Link](https://hackenproof.com/hackers/Wojack)
 
 | Contest | Date | Keywords | Findings |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | **OpenEden Smart Contract Audit**| 2025 | Solidity | 1 Medium |
 
 
-### [Cantina](https://cantina.xyz/u/Kkgg123600)
+### [Cantina Profile Link](https://cantina.xyz/u/Kkgg123600)
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
@@ -82,7 +82,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
 | Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
 
-### [Sherlock](https://audits.sherlock.xyz/watson/Wojack)
+### [Sherlock Profile Link](https://audits.sherlock.xyz/watson/Wojack)
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
@@ -96,7 +96,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium       | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 | stNXM by EaseDeFi             |  2025 | Solidity , DeFi            | 1 High 2 Medium| [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 
-### [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)
+### [CodeHawks Profile Link](https://profiles.cyfrin.io/u/wojack0x0)
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
