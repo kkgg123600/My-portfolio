@@ -66,7 +66,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Revert Finance StableSwap Hooks| 2026 | Solidity     |  1 High 1 Medium 1 Low | [View Rank](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/leaderboard?search=kkgg123600) |
 | Reserve Protocol / Reserve Governor| 2026 | Solidity     |  1 Low | not publicly yet |
 
-### [Code4rena](https://code4rena.com/@Wojack)
+### [Code4rena Profile Link](https://code4rena.com/@Wojack)
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
