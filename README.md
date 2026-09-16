@@ -30,6 +30,7 @@ I am a security researcher with a deep focus on **Invariant Analysis** and secur
 - **Rust** : Solana/CosmWasm.
 - **Move** : Sui/Aptos.
 - **Python** : Vyper
+- **C/C++, Go** : (nodes , Blockchain Infrastructure)
 
 I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review by Using Ai with a strong emphasis on breaking core protocol invariants.
 
