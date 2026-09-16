@@ -1,4 +1,4 @@
-# Wojack - Smart Contract Security Researcher
+# Wojack - Blockchain Security Researcher
 
 **Ranked Top 120  (all time) on [Hackenproof](https://hackenproof.com/hackers/Wojack)**  | **Ranked Top 18  (All-Time in First Flights Comptitions) on [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)** | **Multilingual Auditor (Solidity, Rust, Move, Vyper)**
 
@@ -18,6 +18,7 @@
 | **Hackenproof** | [Wojack](https://hackenproof.com/hackers/Wojack) |
 | **CodeHawks** | [Wojack0x0](https://profiles.cyfrin.io/u/wojack0x0) |
 | **Cantina** | [kkgg123600](https://cantina.xyz/u/Kkgg123600) |
+| **Bugcrowd** | [Bugcrowd](https://bugcrowd.com/h/Wojack) |
 
 ---
 
