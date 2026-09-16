@@ -34,7 +34,13 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 #### CURRENT PROFESSIONAL DEVELOPMENT
 
-* **Formal Verification:** Actively upskilling in Formal Verification writing mathematical specs and invariants using **Certora CVL**.
+* **Formal Verification:** Actively upskilling in Formal Verification by writing mathematical specs and invariants using **Certora CVL**.
+
+#### Professional Development
+
+• SANS SEC554 – Blockchain Security, Cryptocurrency Investigations, Transaction Tracing, and Smart Contract Security
+
+• Cyfrin – [Smart Contract Security](https://profiles.cyfrin.io/u/wojack0x0/achievements)
 
 ## Portfolio
 
