@@ -44,7 +44,13 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 |-------|-------|
 |[Wojack](https://github.com/sherlock-audit/2025-10-saffron-finance-judging/issues) - saffron-finance-judging|10/2025|
 
-## Competitions as a security researcher
+## Competitions as a security researcher And Bug Bounty Program
+
+### [Bugcrowd](https://bugcrowd.com/h/Wojack)
+
+| Bug Bounty Program            | Date     | Keywords   | Findings             | Report Link |
+| ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Fireblocks MPC Security Program | 2026   | C          |  1 P3      | [View Rank](https://bugcrowd.com/h/Wojack)
 
 ### [hackenproof Profile Link](https://hackenproof.com/hackers/Wojack)
 
