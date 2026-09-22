@@ -34,15 +34,22 @@ I am a security researcher with a deep focus on **Invariant Analysis** and secur
 
 I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review by Using Ai with a strong emphasis on breaking core protocol invariants.
 
-#### CURRENT PROFESSIONAL DEVELOPMENT
+#### CORE COMPETENCIES
 
-* **Formal Verification:** Actively upskilling in Formal Verification by writing mathematical specs and invariants using **Certora CVL**.
+- **DeFi & Protocol Security:** Lending, liquidations, collateralization, DEX mechanics, vaults, financial accounting, precision and rounding, authorization, oracle assumptions, governance, bridges, and cross-contract state transitions.
+- **Adversarial Research:** Threat modeling, attack-surface analysis, exploit-path validation, root-cause analysis, deterministic PoCs, severity assessment, remediation analysis, and mainnet-fork reproduction.
+- **Verification & Testing:** Foundry, invariant testing, fuzzing, structure-aware fuzzing, project-native test harnesses, and AddressSanitizer (ASAN).
+- **Security Triage:** Finding validity, exploitability, severity, duplicate/root-cause analysis, intended-behavior checks, privilege assumptions, and mitigation/refutation analysis.
+- **Languages & Ecosystems:** Solidity/EVM, Rust (CosmWasm/Solana), Move (Sui/Aptos), Vyper, Go, and C/C++.
+- **On-Chain Investigation:** Historical event enumeration, account-code and registry inspection, affected-principal analysis, and mainnet-state reproduction.
 
 #### Professional Development
 
 • SANS SEC554 – Blockchain Security, Cryptocurrency Investigations, Transaction Tracing, and Smart Contract Security
 
 • Cyfrin – [Smart Contract Security](https://profiles.cyfrin.io/u/wojack0x0/achievements)
+
+• Certora CVL — ongoing formal specification and invariant development.
 
 ## Portfolio
 
