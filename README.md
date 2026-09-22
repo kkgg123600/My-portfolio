@@ -69,15 +69,14 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 ### [hackenproof Profile Link](https://hackenproof.com/hackers/Wojack)
 
-| Contest | Date | Keywords | Findings |
-| :--- | :--- | :--- | :--- |
-| **1inch Aqua Bug Bounty** | 2025 | Solidity | 1 Medium |
-| **Reliq Smart Contract Audit Contest** | 2025 | Solidity | 1 High, 1 Low |
-| **Rain Smart Contract Audit Contest** | 2025 | Solidity | 2 Critical, 1 High, 2 Medium |
-| **OpenEden USDO Express Smart Contract Audit Contest** | 2025 | Solidity | 1 Low |
-| **SuiDeX Audit Contest** | 2025 | Move, Sui | 2 Critical |
-| **OpenEden Smart Contract Audit**| 2025 | Solidity | 1 Medium |
-
+| Contest | Date | Keywords | Findings | Report Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **1inch Aqua Bug Bounty** | 2025 | Solidity | 1 Medium | NDA |
+| **Reliq Smart Contract Audit Contest** | 2025 | Solidity | 1 High, 1 Low | NDA |
+| **Rain Smart Contract Audit Contest** | 2025 | Solidity | 2 Critical, 1 High, 2 Medium | NDA |
+| **OpenEden USDO Express Smart Contract Audit Contest** | 2025 | Solidity | 1 Low | NDA |
+| **SuiDeX Audit Contest** | 2025 | Move, Sui | 2 Critical | NDA |
+| **OpenEden Smart Contract Audit**| 2025 | Solidity | 1 Medium | NDA |
 
 ### [Cantina Profile Link](https://cantina.xyz/u/Kkgg123600)
 
