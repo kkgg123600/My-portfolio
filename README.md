@@ -58,7 +58,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Bug Bounty Program            | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Fireblocks MPC Security Program | 2026   | C/C++      |  1 P3      | [View Rank](https://bugcrowd.com/h/Wojack)
+| Fireblocks MPC Security Program | 2026   | C/C++      |  1 P3      |	Findings not yet public [View Rank](https://bugcrowd.com/h/Wojack)
 
 ### [hackenproof Profile Link](https://hackenproof.com/hackers/Wojack)
 
