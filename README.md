@@ -1,6 +1,6 @@
 # Wojack - Blockchain Security Researcher
 
-**Ranked Top 120  (all time) on [Hackenproof](https://hackenproof.com/hackers/Wojack)**  | **Ranked Top 18  (All-Time in First Flights Comptitions) on [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)** | **Multilingual Auditor (Solidity, Rust, Move, Vyper)**
+**Ranked Top 120  (all time) on [Hackenproof](https://hackenproof.com/hackers/Wojack)**  | **Ranked Top 18  (All-Time in First Flights Comptitions) on [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)** | **Multilingual Auditor (Solidity, Rust, Move, C/C++, Go, Vyper)**
 
 ## 📬 Contact & Profiles
 
@@ -84,30 +84,31 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| K2                            | 2026 | Rust  Stellar's Soroban     | 1 Medium       | [View Report](https://code4rena.com/audits/2026-04-k2/submissions/S-245) |
 | Jupiter Lend                  | 2026 | Rust              | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-jupiter-lend/submissions/S-446) |
 | Injective Peggy Bridge        | 2026 | Solidity, Go      | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge/submissions/S-289) |
-| OLAS                          | 2026 | Solidity          | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2026-01-olas/submissions/S-183) |
+| OLAS                          | 2026 | Solidity          | 1 High 1 Medium 🥇 **49th place** | [View Report](https://code4rena.com/audits/2026-01-olas/submissions/S-183) |
 | Rujira                        | 2026 | Rust for CosmWasm | 2 Medium 1 Low | [View Report](https://code4rena.com/audits/2025-12-rujira/submissions/S-113) |
-| Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
-| SukukFi                       | 2025 | Solidity          | 1 Medium       | [View Report](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-257) |
+| Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low 🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
+| SukukFi                       | 2025 | Solidity          | 1 Medium       🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-257) |
 | Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/audits/2025-11-garden/submissions/S-547) |
-| Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
+| Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium 🥇 **16th place** | [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
 | Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/audits/2025-10-covenant/submissions/S-60) |
-| Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
+| Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low 🥇 **28th place** | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
 | Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
 
 ### [Sherlock Profile Link](https://audits.sherlock.xyz/watson/Wojack)
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Metric | 2026 | Solidity, DEX   | 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
-| Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 2 Medium| [View Report](https://audits.sherlock.xyz/watson/Wojack)|
-| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High         | [View Report](https://audits.sherlock.xyz/watson/Wojack)|
+| Metric                        |  2026 | Solidity, DEX              | 1 Medium 🥇 **23rd out of 1,480 participants** | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
+| Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 2 Medium 🥇 **21rd out of 509 participants** | [View Report](https://audits.sherlock.xyz/watson/Wojack)|
+| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   🥇 **12rd out of 1,009 participants** | [View Report](https://audits.sherlock.xyz/watson/Wojack)|
 | OpenCover Insured Vaults      |  2026 | Solidity , DeFi , Vault    | private        | not publicly available |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private        | not publicly available |
 | Flying Tulip                  |  2026 | Solidity , DeFi , lending  | private        | not publicly available |
 | Aave V4                       |  2026 | Solidity                   | Bonus          | Exceptional Quality Bonus ($555) awarded for high-value architectural improvement reports. |
-| Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium       | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
+| Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium   🥇 **15th place** | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 | stNXM by EaseDeFi             |  2025 | Solidity , DeFi            | 1 High 2 Medium| [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 
 ### [CodeHawks Profile Link](https://profiles.cyfrin.io/u/wojack0x0)
