@@ -98,7 +98,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low 🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
 | SukukFi                       | 2025 | Solidity          | 1 Medium       🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-257) |
 | Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/audits/2025-11-garden/submissions/S-547) |
-| Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium 🥇 **16th place** | [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
+| Reflector V3                  | 2025 | Rust (Soroban), oracle | 1 High 1 Medium 🥇 **16th place** | [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
 | Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/audits/2025-10-covenant/submissions/S-60) |
 | Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low 🥇 **28th place** | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
 | Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
