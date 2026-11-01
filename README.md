@@ -90,18 +90,18 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| K2                            | 2026 | Rust  Stellar's Soroban     | 1 Medium       | [View Report](https://code4rena.com/audits/2026-04-k2/submissions/S-245) |
-| Jupiter Lend                  | 2026 | Rust              | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-jupiter-lend/submissions/S-446) |
-| Injective Peggy Bridge        | 2026 | Solidity, Go      | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge/submissions/S-289) |
-| OLAS                          | 2026 | Solidity          | 1 High 1 Medium 🥇 **49th place** | [View Report](https://code4rena.com/audits/2026-01-olas/submissions/S-183) |
-| Rujira                        | 2026 | Rust for CosmWasm | 2 Medium 1 Low | [View Report](https://code4rena.com/audits/2025-12-rujira/submissions/S-113) |
-| Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low 🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
-| SukukFi                       | 2025 | Solidity          | 1 Medium       🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-257) |
-| Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/audits/2025-11-garden/submissions/S-547) |
-| Reflector V3                  | 2025 | Rust (Soroban), oracle | 1 High 1 Medium 🥇 **16th place** | [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
-| Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/audits/2025-10-covenant/submissions/S-60) |
-| Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low 🥇 **28th place** | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
-| Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
+| K2                            | 2026 | Rust  Stellar's Soroban     | 1 Medium       | [View Report](https://code4rena.com/audits/2026-04-k2) |
+| Jupiter Lend                  | 2026 | Rust              | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-jupiter-lend) |
+| Injective Peggy Bridge        | 2026 | Solidity, Go      | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge) |
+| OLAS                          | 2026 | Solidity          | 1 High 1 Medium 🥇 **49th place** | [View Report](https://code4rena.com/audits/2026-01-olas) |
+| Rujira                        | 2026 | Rust for CosmWasm | 2 Medium 1 Low | [View Report](https://code4rena.com/audits/2025-12-rujira) |
+| Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low 🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-brix-money) |
+| SukukFi                       | 2025 | Solidity          | 1 Medium       🥇 **8th place** | [View Report](https://code4rena.com/audits/2025-11-sukukfi) |
+| Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/audits/2025-11-garden) |
+| Reflector V3                  | 2025 | Rust (Soroban), oracle | 1 High 1 Medium 🥇 **16th place** | [View Report](https://code4rena.com/audits/2025-10-reflector-v3) |
+| Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/audits/2025-10-covenant) |
+| Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low 🥇 **28th place** | [View Report](https://code4rena.com/audits/2025-10-hybra-finance) |
+| Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset) |
 
 ### [Sherlock Profile Link](https://audits.sherlock.xyz/watson/Wojack)
 
