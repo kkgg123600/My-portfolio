@@ -1,6 +1,10 @@
 
 ## Auditing Process
 
+You can message me on twitter, discord, or telegram to ask for it.
+
+**Contact:** [X / Twitter](https://x.com/Wojack0x0) · [LinkedIn](https://www.linkedin.com/in/wojack0x0/) · Telegram: `Wojack0x0` · Discord: `Wojack0x0` · Email: `kkgg123600@gmail.com`
+
 ### 1. Scoping (free)
 
 Usually a few hours, at most one day. I go through the codebase and documentation to assess:
