@@ -20,6 +20,8 @@
 | **Cantina** | [kkgg123600](https://cantina.xyz/u/Kkgg123600) |
 | **Bugcrowd** | [Bugcrowd](https://bugcrowd.com/h/Wojack) |
 
+For private audits, check this [link](https://github.com/kkgg123600/My-portfolio/blob/main/ask-for-audit.md).
+
 ---
 
 ## 👨‍💻 About Me
