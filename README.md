@@ -8,7 +8,6 @@
 - **Linkedin:** [@Wojack0x0](https://www.linkedin.com/in/wojack0x0/)
 - **Discord:** Wojack0x0
 - **Telegram:** Wojack0x0
-- **Email:** kkgg123600@gmail.com
 - **GitHub:** [Wojack](https://github.com/kkgg123600)
 
 | Platform | Profile |
